@@ -1,0 +1,6 @@
+Resolved addresses:
+ac-3qskw1c-shard-00-02.bzmicim.mongodb.net:27017
+ac-3qskw1c-shard-00-00.bzmicim.mongodb.net:27017
+ac-3qskw1c-shard-00-01.bzmicim.mongodb.net:27017
+TXT records: authSource=admin&replicaSet=atlas-nqepkk-shard-0
+ReplicaSet: atlas-nqepkk-shard-0
