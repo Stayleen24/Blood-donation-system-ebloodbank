@@ -1,6 +1,6 @@
 🎯 Blood Donation Management System
-📌 Project Overview
 
+📌 Project Overview
 The Blood Donation Management System is a web-based application developed to manage blood donors, blood requests, hospitals, and blood bank activities efficiently. The system helps connect donors with recipients during emergencies and simplifies the process of managing blood inventory and donation records.
 
 The project provides an easy-to-use platform for:
@@ -10,8 +10,8 @@ Blood Request Management
 Blood Inventory Tracking
 Hospital & Blood Bank Management
 Emergency Blood Availability Search
-🚀 Features
 
+🚀 Features
 ✅ Donor Registration & Login
 ✅ Blood Request Management
 ✅ Blood Group Search System
@@ -29,9 +29,10 @@ TypeScript
 Tailwind CSS
 HTML5
 CSS3
+
 ⚙️ Backend / Database
-Supabase
-PostgreSQL
+Mongodb
+
 🧰 Libraries & Tools
 React Router DOM
 React Query
@@ -39,27 +40,33 @@ React Hook Form
 Zod Validation
 Framer Motion
 shadcn/ui
+
 📊 Key Functionalities
 🩸 Donor Module
 Register as donor
 Update donor profile
 Manage donation history
+
 🏥 Hospital Module
 Request blood units
 Track blood availability
+
 📦 Blood Inventory Module
 Monitor blood stock
 Manage blood groups and units
+
 👨‍💼 Admin Module
 Manage users and donors
 Verify blood requests
 Monitor system activities
+
 📈 Key Insights
 Simplifies blood donation management process
 Reduces manual data handling
 Improves emergency response time
 Provides centralized donor database
 Enhances communication between donors and hospitals
+
 📂 Project Structure
 src/
  ├── components/
@@ -69,22 +76,26 @@ src/
  ├── services/
  ├── assets/
  └── App.tsx
+
 ⚙️ Installation
 Clone Repository
 git clone https://github.com/your-username/lifedrop.git
 cd lifedrop
+
 Install Dependencies
 npm install
+
 Run Project
 npm run dev
+
 🔐 Environment Variables
 
 Create .env file:
 
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_key
-📂 Future Improvements
 
+📂 Future Improvements
 🚀 AI-Based Donor Recommendation
 🚀 SMS & Email Notifications
 🚀 Geo-location Based Donor Search
@@ -93,5 +104,4 @@ VITE_SUPABASE_ANON_KEY=your_supabase_key
 🚀 Hospital API Integration
 
 👨‍💻 Author
-
-Shreyash
+Stayleen
