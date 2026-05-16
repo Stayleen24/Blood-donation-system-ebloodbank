@@ -67,16 +67,6 @@ Improves emergency response time
 Provides centralized donor database
 Enhances communication between donors and hospitals
 
-📂 Project Structure
-src/
- ├── components/
- ├── pages/
- ├── hooks/
- ├── contexts/
- ├── services/
- ├── assets/
- └── App.tsx
-
 ⚙️ Installation
 Clone Repository
 git clone https://github.com/your-username/lifedrop.git
