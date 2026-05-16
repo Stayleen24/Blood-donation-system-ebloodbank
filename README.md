@@ -60,30 +60,6 @@ Manage users and donors
 Verify blood requests
 Monitor system activities
 
-📈 Key Insights
-Simplifies blood donation management process
-Reduces manual data handling
-Improves emergency response time
-Provides centralized donor database
-Enhances communication between donors and hospitals
-
-⚙️ Installation
-Clone Repository
-git clone https://github.com/your-username/lifedrop.git
-cd lifedrop
-
-Install Dependencies
-npm install
-
-Run Project
-npm run dev
-
-🔐 Environment Variables
-
-Create .env file:
-
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_key
 
 📂 Future Improvements
 🚀 AI-Based Donor Recommendation
