@@ -12,15 +12,15 @@ Hospital & Blood Bank Management
 Emergency Blood Availability Search
 
 🚀 Features
-✅ Donor Registration & Login
-✅ Blood Request Management
-✅ Blood Group Search System
-✅ Blood Inventory Monitoring
-✅ Hospital & Blood Bank Management
-✅ Admin Dashboard
-✅ Responsive User Interface
-✅ Secure Authentication System
-✅ Real-Time Database Integration
+ Donor Registration & Login
+ Blood Request Management
+ Blood Group Search System
+ Blood Inventory Monitoring
+ Hospital & Blood Bank Management
+ Admin Dashboard
+ Responsive User Interface
+ Secure Authentication System
+ Real-Time Database Integration
 
 🛠️ Tech Stack
 💻 Frontend
