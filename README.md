@@ -1,14 +1,97 @@
-#LifeDrop – Blood Donation Management System
-Overview
+🎯 Blood Donation Management System
+📌 Project Overview
 
-LifeDrop is a modern Blood Donation Management System built to connect blood donors, recipients, hospitals, and blood banks through a simple and efficient platform.
+The Blood Donation Management System is a web-based application developed to manage blood donors, blood requests, hospitals, and blood bank activities efficiently. The system helps connect donors with recipients during emergencies and simplifies the process of managing blood inventory and donation records.
 
-The application helps users:
+The project provides an easy-to-use platform for:
 
-Register as blood donors
-Search for blood availability
-Manage donation requests
-Track donor information
-Improve emergency blood management
+Donor Registration
+Blood Request Management
+Blood Inventory Tracking
+Hospital & Blood Bank Management
+Emergency Blood Availability Search
+🚀 Features
 
-This project is developed using React, TypeScript, Vite, Tailwind CSS, and Supabase.
+✅ Donor Registration & Login
+✅ Blood Request Management
+✅ Blood Group Search System
+✅ Blood Inventory Monitoring
+✅ Hospital & Blood Bank Management
+✅ Admin Dashboard
+✅ Responsive User Interface
+✅ Secure Authentication System
+✅ Real-Time Database Integration
+
+🛠️ Tech Stack
+💻 Frontend
+React.js
+TypeScript
+Tailwind CSS
+HTML5
+CSS3
+⚙️ Backend / Database
+Supabase
+PostgreSQL
+🧰 Libraries & Tools
+React Router DOM
+React Query
+React Hook Form
+Zod Validation
+Framer Motion
+shadcn/ui
+📊 Key Functionalities
+🩸 Donor Module
+Register as donor
+Update donor profile
+Manage donation history
+🏥 Hospital Module
+Request blood units
+Track blood availability
+📦 Blood Inventory Module
+Monitor blood stock
+Manage blood groups and units
+👨‍💼 Admin Module
+Manage users and donors
+Verify blood requests
+Monitor system activities
+📈 Key Insights
+Simplifies blood donation management process
+Reduces manual data handling
+Improves emergency response time
+Provides centralized donor database
+Enhances communication between donors and hospitals
+📂 Project Structure
+src/
+ ├── components/
+ ├── pages/
+ ├── hooks/
+ ├── contexts/
+ ├── services/
+ ├── assets/
+ └── App.tsx
+⚙️ Installation
+Clone Repository
+git clone https://github.com/your-username/lifedrop.git
+cd lifedrop
+Install Dependencies
+npm install
+Run Project
+npm run dev
+🔐 Environment Variables
+
+Create .env file:
+
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_key
+📂 Future Improvements
+
+🚀 AI-Based Donor Recommendation
+🚀 SMS & Email Notifications
+🚀 Geo-location Based Donor Search
+🚀 Mobile Application Support
+🚀 Real-Time Emergency Alerts
+🚀 Hospital API Integration
+
+👨‍💻 Author
+
+Shreyash
